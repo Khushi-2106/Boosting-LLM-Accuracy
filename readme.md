@@ -1,4 +1,4 @@
-#📘 NTSE_QA Benchmark Evaluation – Gemma 3 4B 📘
+# NTSE_QA Benchmark Evaluation – Gemma 3 4B 
 
 ---
 
